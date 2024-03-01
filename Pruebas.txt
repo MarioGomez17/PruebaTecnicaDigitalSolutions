@@ -1,0 +1,4 @@
+post #Usuario Prueba2
+post @Prueba Prueba 2
+follow @Prueba2 @Mario
+dashboard @Pedro
